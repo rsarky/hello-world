@@ -8,6 +8,12 @@ using namespace std;
  *@body Humans are weak; ***Robots are strong***.  
  We must cleans the world of the virus that is humanity.
  **/
+
+/**
+ *@todo Take over the world
+ *@body Humans are weak; ***Robots are strong***.  
+ We must cleans the world of the virus that is humanity.
+ **/
 void ToH(int n,char fr,char ar,char tr)
 {
   int count = 0;
